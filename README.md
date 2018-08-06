@@ -1,2 +1,4 @@
-# mean_calculator
-Workshop 2018 test repo
+# Repository for testing: Workshop 2018
+
+Based on work by Katy Huff.
+
